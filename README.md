@@ -74,3 +74,21 @@
 
 These are the major steps.  Please,  do not hesitate to contact the me if you have any questions, no matter how insignificant they may seem to you.
 
+0204IbnKalbi.AnsabKhayl:
+It took me 4 hours to edit this text.
+
+0204IbnKalbi.JamharaAnsab:
+I chose to work with the Shamela version because sections were tagged in the Shamela version whereas sections were not tagged in the JK version. It took me around 60 hours to edit the Shamela version. The reason it took so long is that I was working with a PDF whose Arabic text was extremely difficult to read. In addition, the file itself has many gaps in the text, which made it hard to compare with the PDF. The file seems to be missing a lot of text.
+
+0261AbuHasanCijli.MacrifaThiqat:
+This folder contains versions of two separate texts MacrifaThiqat and TarikhThiqat. I worked with Shamela009170 because this version was the only version for TarikhThiqat. It took me 20 hours to edit this text.
+
+0292Yacqubi.TarikhYacqubi
+I worked with the Shamela version of this text because this version seemed to already have section tags. It took me 16 hours to edit this text.
+
+0296IbnMuctazz.TabaqatShucara
+I worked with the Shamela version of this text because it was the only version available. It took me 20 hours to edit this text.
+
+0300IbnKhurdadhbih.MasalikWaMamalik
+I worked with the Shamela version of this text because it had section tags. It took me 8 hours to edit this text.
+
