@@ -106,7 +106,7 @@
 
 
 
-# 0300AH [[ [Re]generated on 2016-10-16 (23:19:53) ]]
+# 0300AH [[ [Re]generated on 2016-10-17 (07:49:16) ]]
 
 * `0203IbnSulaymanGhazi.MusnadRida (TAGS: CENT0300, _HADITH, _SHICI)`
 * `0203YahyaIbnAdam.Kharaj (TAGS: CENT0300, _AJZA, _FIQH, _HADITH, _MASAIL, _USUL)`
@@ -265,6 +265,7 @@
 * `0265SalihIbnHanbal.SiraImam (TAGS: CENT0300, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0270IbnCaffanKufi.AmaliWaQiraa (TAGS: CENT0300, _AJZA, _AMALI, _HADITH, _MAJALIS, _TARAJIM)`
 * `0272Fakihi.AkhbarMakka (TAGS: CENT0300, PPE, _BULDAN, _HADITH, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0272IbnCassamIsbahani.JuzIbnCassam (TAGS: CENT0300, _AJZA, _HADITH, _TARAJIM)`
 * `0272IbnIshaqFakihi.HadithFakihi (TAGS: CENT0300, _AJZA, _HADITH, _TARAJIM)`
 * `0273AbuUmayyaTarsusi.MusnadCabdAllahIbnCumar (TAGS: CENT0300, _AJZA, _HADITH, _MACAJIM, _MASANID, _TARAJIM)`
 * `0273IbnMaja.SharhMuqaddimaSunan (TAGS: CENT0300, _HADITH, _SHARH)`
@@ -328,6 +329,7 @@
 * `0281IbnAbiDunya.MakarimAkhlaq (TAGS: CENT0300, _AKHLAQ, _HADITH, _IBNABIDUNYA, _SUNNI)`
 * `0281IbnAbiDunya.ManCashaBacdaMawt (TAGS: CENT0300, _CAQAID, _HADITH, _IBNABIDUNYA, _MILAL)`
 * `0281IbnAbiDunya.Manamat (TAGS: CENT0300, _AHLAM, _CAQAID, _HADITH, _IBNABIDUNYA)`
+* `0281IbnAbiDunya.MaqtalCali (TAGS: CENT0300, _AJZA, _HADITH, _TARAJIM)`
 * `0281IbnAbiDunya.MaqtalCali (TAGS: CENT0300, _IBNABIDUNYA)`
 * `0281IbnAbiDunya.MaradWaKaffarat (TAGS: CENT0300, _AKHLAQ, _IBNABIDUNYA)`
 * `0281IbnAbiDunya.MudaratNas (TAGS: CENT0300, _AKHLAQ, _IBNABIDUNYA)`
