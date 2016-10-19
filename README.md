@@ -106,7 +106,7 @@
 
 
 
-# 0300AH [[ [Re]generated on 2016-10-17 (13:25:40) ]]
+# 0300AH [[ [Re]generated on 2016-10-19 (14:30:34) ]]
 
 * `0203IbnSulaymanGhazi.MusnadRida (TAGS: CENT0300, _HADITH, _SHICI)`
 * `0203YahyaIbnAdam.Kharaj (TAGS: CENT0300, _AJZA, _FIQH, _HADITH, _MASAIL, _USUL)`
@@ -249,6 +249,7 @@
 * `0257IbnCurfaCabdi.AhadithCawali (TAGS: CENT0300, CENT0800, _AJZA, _CHRONOMULTIPLE, _HADITH, _TARAJIM)`
 * `0258IbnYahyaNaysaburi.Juz (TAGS: CENT0300, _HADITH, _MAKHTUTAT)`
 * `0259IbnYacqubJuzjani.AhwalRijal (TAGS: CENT0300, PPE, _HADITH, _TABAQAT, _TARAJIM)`
+* `0260IbnSahlTabari.FirdawsHikmaFiTibb (TAGS: CENT0300, _TIBB)`
 * `0261AbuHasanCijli.MacrifaThiqat (TAGS: CENT0300, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM, _THIQAT)`
 * `0261Muslim.KunaWaAsma (TAGS: CENT0300, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0261Muslim.Munfaridat (TAGS: CENT0300, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
