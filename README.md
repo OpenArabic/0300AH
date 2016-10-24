@@ -110,7 +110,7 @@
 
 
 
-# 0300AH [[ [Re]generated on 2016-10-23 (13:19:17) ]]
+# 0300AH [[ [Re]generated on 2016-10-24 (20:10:57) ]]
 
 * `0203IbnSulaymanGhazi.MusnadRida (TAGS: CENT0300, _HADITH, _SHICI)`
 * `0203YahyaIbnAdam.Kharaj (TAGS: CENT0300, _AJZA, _FIQH, _HADITH, _MASAIL, _USUL)`
@@ -124,6 +124,7 @@
 * `0204Shafici.JimacCilm (TAGS: CENT0300, _FIQH, _QAWACID, _SHAFICI, _USUL)`
 * `0204Shafici.Musnad (TAGS: CENT0300, _FIQH, _HADITH, _SHAFICI, _SUNAN, _SUNNI, _TARAJIM)`
 * `0204Shafici.Risala (TAGS: CENT0300, _FIQH, _QAWACID, _SHAFICI, _USUL)`
+* `0204Shafici.TafsirShafici (TAGS: CENT0300, _TAFSIR)`
 * `0204Shafici.Umm (TAGS: CENT0300, _FIQH, _HADITH, _SHAFICI)`
 * `0206AbuMuhammadQutrub.Azmina (TAGS: CENT0300, _FIQH, _GHARIB, _MACAJIM, _MASAIL, _MUSTALAHAT)`
 * `0206IbnMirarShaybani.Jim (TAGS: CENT0300, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
@@ -143,6 +144,7 @@
 * `0214IbnCabdHakamMisri.SiraCumarIbnCabdCaziz (TAGS: CENT0300, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0215AkhfashAwsat.Qawafi (TAGS: CENT0300, _ADAB, _BALAGHA, _FASAHA)`
 * `0216IbnQuraybAsmaci.Asmaciyat (TAGS: CENT0300, _ADAB, _ADAB, _BALAGHA, _SHICR)`
+* `0216IbnQuraybAsmaci.Ibl (TAGS: CENT0300, _ADAB, _BALAGHA)`
 * `0216IbnQuraybAsmaci.Sha (TAGS: CENT0300, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
 * `0219AbuNucaymIbnDykayn.Salat (TAGS: CENT0300, _AJZA, _HADITH, _TARAJIM)`
 * `0219IbnZubayrHumaydi.Musnad (TAGS: CENT0300, _HADITH, _MACAJIM, _MASANID, _SUNNI, _TARAJIM)`
@@ -250,7 +252,6 @@
 * `0256ZubayrIbnBakkar.JamharaNasabQuraysh (TAGS: CENT0300, PPE, _ANSAB, _BULDAN, _TARIKH)`
 * `0256ZubayrIbnBakkar.Muntakhab (TAGS: CENT0300, PPE, _AJZA, _ASHAB, _HADITH, _SIRA, _TABAQAT, _TARAJIM)`
 * `0257IbnCabdHakam.FutuhMisr (TAGS: CENT0300, PPE, _BULDAN, _TARIKH)`
-* `0257IbnCurfaCabdi.AhadithCawali (TAGS: CENT0300, CENT0800, _AJZA, _CHRONOMULTIPLE, _HADITH, _TARAJIM)`
 * `0258IbnYahyaNaysaburi.Juz (TAGS: CENT0300, _HADITH, _MAKHTUTAT)`
 * `0259IbnYacqubJuzjani.AhwalRijal (TAGS: CENT0300, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0260IbnSahlTabari.FirdawsHikmaFiTibb (TAGS: CENT0300, _TIBB)`
