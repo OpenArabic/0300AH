@@ -1,5 +1,21 @@
 
+## 1. Describe why you chose this specific version of the text. Why others, in your opinion, are worse?
 
-Please, copy-paste questions from `text_questionnaire.md` into this file and answer the questions.
-If you have done so, please check if `text_questionnaire.md` has been updated and has new questions.
+this one was longer
 
+## 2. Which edition you used for collation? How close the text to the edition? Is pagination the same?
+
+page numbering completely different.
+the editor tagged 2 2nd level chapters which are not there as such in the text. see text first two 2nd level chapters
+
+## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
+
+Type your response here.
+
+## 4. Add any comments on the text
+
+no biographies
+
+## 5. duration: 40min
+
+## Comments by : [Leonie Nückell]
