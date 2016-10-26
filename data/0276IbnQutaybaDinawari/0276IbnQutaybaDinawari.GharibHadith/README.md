@@ -13,4 +13,4 @@ still unclear about 2nd leveling chapter
 121 biographies
 ## 5. duration: 2h
 
-## Comments by : [Firstname Lastname]
+## Comments by : [Leonie Nückell]
