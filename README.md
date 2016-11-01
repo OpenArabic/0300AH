@@ -1,14 +1,14 @@
 ## Status Report
  
-* 91 titles
-* 57,740,638 words
-* 286,381 logical units
+* 95 titles
+* 58,231,391 words
+* 294,602 logical units
 * 56,798 bios
 
-### `*.inProgress` (25 titles: 21,995,180 words; 83,335 units; 0 bios)
+### `*.inProgress` (25 titles: 21,995,268 words; 83,295 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
-- `0255Jahiz.Hayawan (456,584 words; 3,186 units; 0 bios)`
+- `0255Jahiz.Hayawan (456,672 words; 3,146 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal (93,184 words; 858 units; 0 bios)`
@@ -34,12 +34,15 @@
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (46 titles: 26,720,634 words; 121,450 units; 1 bios)
+### `*.completed` (50 titles: 27,211,299 words; 129,711 units; 1 bios)
 
+- `0276IbnQutaybaDinawari.AnwaFiMawasim (37,309 words; 104 units; 0 bios)`
+- `0276IbnQutaybaDinawari.AshribaWaIkhtilafFiha (14,816 words; 7 units; 0 bios)`
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)`
 - `0390Muqaddasi.AhsanTaqasim (103,553 words; 67 units; 0 bios)`
 - `0412Sulami.TabaqatSufiya (68,554 words; 193 units; 0 bios)`
+- `0429AbuMansurThacalibi.YatimaDahr (361,444 words; 1,108 units; 0 bios)`
 - `0430AbuNucaymIsbahani.HilyaAwliya (1,188,081 words; 678 units; 0 bios)`
 - `0430AbuNucaymIsbahani.TarikhIsbahan (228,661 words; 1,959 units; 0 bios)`
 - `0442Tanukhi.TarikhCulamaNahwiyyin (10,765 words; 95 units; 0 bios)`
@@ -79,6 +82,7 @@
 - `0748Dhahabi.MucjamShuyukh (152,971 words; 1,025 units; 0 bios)`
 - `0748Dhahabi.MughniFiDucafa (119,158 words; 7,870 units; 0 bios)`
 - `0748Dhahabi.MukhtasarMinDubaythi (96,058 words; 1,641 units; 0 bios)`
+- `0748Dhahabi.Muqtana (77,096 words; 7,042 units; 0 bios)`
 - `0852IbnHajarCasqalani.TahdhibTahdhib (1,316,187 words; 13,415 units; 0 bios)`
 - `0874IbnTaghribirdi.NujumZahira (1,129,443 words; 1,113 units; 0 bios)`
 - `1089IbnCimad.Shadharat (1,097,722 words; 1,143 units; 0 bios)`
@@ -110,7 +114,7 @@
 
 
 
-# 0300AH [[ [Re]generated on 2016-10-23 (13:19:17) ]]
+# 0300AH [[ [Re]generated on 2016-11-01 (16:59:19) ]]
 
 * `0203IbnSulaymanGhazi.MusnadRida (TAGS: CENT0300, _HADITH, _SHICI)`
 * `0203YahyaIbnAdam.Kharaj (TAGS: CENT0300, _AJZA, _FIQH, _HADITH, _MASAIL, _USUL)`
@@ -124,6 +128,7 @@
 * `0204Shafici.JimacCilm (TAGS: CENT0300, _FIQH, _QAWACID, _SHAFICI, _USUL)`
 * `0204Shafici.Musnad (TAGS: CENT0300, _FIQH, _HADITH, _SHAFICI, _SUNAN, _SUNNI, _TARAJIM)`
 * `0204Shafici.Risala (TAGS: CENT0300, _FIQH, _QAWACID, _SHAFICI, _USUL)`
+* `0204Shafici.TafsirShafici (TAGS: CENT0300, _TAFSIR)`
 * `0204Shafici.Umm (TAGS: CENT0300, _FIQH, _HADITH, _SHAFICI)`
 * `0206AbuMuhammadQutrub.Azmina (TAGS: CENT0300, _FIQH, _GHARIB, _MACAJIM, _MASAIL, _MUSTALAHAT)`
 * `0206IbnMirarShaybani.Jim (TAGS: CENT0300, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
@@ -143,6 +148,7 @@
 * `0214IbnCabdHakamMisri.SiraCumarIbnCabdCaziz (TAGS: CENT0300, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0215AkhfashAwsat.Qawafi (TAGS: CENT0300, _ADAB, _BALAGHA, _FASAHA)`
 * `0216IbnQuraybAsmaci.Asmaciyat (TAGS: CENT0300, _ADAB, _ADAB, _BALAGHA, _SHICR)`
+* `0216IbnQuraybAsmaci.Ibl (TAGS: CENT0300, _ADAB, _BALAGHA)`
 * `0216IbnQuraybAsmaci.Sha (TAGS: CENT0300, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
 * `0219AbuNucaymIbnDykayn.Salat (TAGS: CENT0300, _AJZA, _HADITH, _TARAJIM)`
 * `0219IbnZubayrHumaydi.Musnad (TAGS: CENT0300, _HADITH, _MACAJIM, _MASANID, _SUNNI, _TARAJIM)`
@@ -214,6 +220,7 @@
 * `0246HishamSulami.HadithHisham (TAGS: CENT0300, _AJZA, _HADITH, _MISC, _TARAJIM)`
 * `0246HusaynMarwazi.BirrWaSila (TAGS: CENT0300, _AJZA, _AKHLAQ, _HADITH)`
 * `0246IbnCumarDuri.JuzFihiQiraat (TAGS: CENT0300, _AJZA, _CULUM, _HADITH, _QIRAAT, _QURAN, _TAFSIR)`
+* `0246IbnIbrahimBursi.TathbitImama (TAGS: CENT0300, _CAQAID, _SHICI, _ZAYDIYYA)`
 * `0248AbuHatimSijistani.Farq (TAGS: CENT0300, _FIQH, _GHARIB, _MACAJIM, _MASAIL, _MUSTALAHAT)`
 * `0248AbuHatimSijistani.FuhulaShucara (TAGS: CENT0300, _TARAJIM, _TARIKH)`
 * `0248AbuHatimSijistani.Mucammarun (TAGS: CENT0300, _ADAB, _AKHLAQ, _BALAGHA, _MISC, _SULUK)`
@@ -250,7 +257,6 @@
 * `0256ZubayrIbnBakkar.JamharaNasabQuraysh (TAGS: CENT0300, PPE, _ANSAB, _BULDAN, _TARIKH)`
 * `0256ZubayrIbnBakkar.Muntakhab (TAGS: CENT0300, PPE, _AJZA, _ASHAB, _HADITH, _SIRA, _TABAQAT, _TARAJIM)`
 * `0257IbnCabdHakam.FutuhMisr (TAGS: CENT0300, PPE, _BULDAN, _TARIKH)`
-* `0257IbnCurfaCabdi.AhadithCawali (TAGS: CENT0300, CENT0800, _AJZA, _CHRONOMULTIPLE, _HADITH, _TARAJIM)`
 * `0258IbnYahyaNaysaburi.Juz (TAGS: CENT0300, _HADITH, _MAKHTUTAT)`
 * `0259IbnYacqubJuzjani.AhwalRijal (TAGS: CENT0300, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0260IbnSahlTabari.FirdawsHikmaFiTibb (TAGS: CENT0300, _TIBB)`
