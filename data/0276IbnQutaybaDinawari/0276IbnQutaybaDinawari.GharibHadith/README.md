@@ -9,8 +9,8 @@ s.a.
 s.a.
 ## 4. Add any comments on the text
 
-still unclear about 2nd leveling chapter; 
-121 biographies
+everzthing is tagged, but structure of the text is not clear, so it need to be reordered
+
 ## 5. duration: 2h
 
 ## Comments by : [Leonie Nückell]
