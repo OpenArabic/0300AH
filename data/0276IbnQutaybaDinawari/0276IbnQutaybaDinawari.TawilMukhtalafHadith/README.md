@@ -1,5 +1,8 @@
 
 
-Please, copy-paste questions from `text_questionnaire.md` into this file and answer the questions.
-If you have done so, please check if `text_questionnaire.md` has been updated and has new questions.
+I only found a pdf which differs a lot and I didn't understand how the structures of the different versions and the pdf go together.
+May be we can talk about this one.
+http://ia600301.us.archive.org/31/items/waq110000/110000.pdf
+
+Leonie Nückell
 
