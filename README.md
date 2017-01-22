@@ -77,8 +77,8 @@
 - `0466CabdAzizKattani.DhaylTarikhMawlidCulama (18,115 words; 463 units; 0 bios)`
 - `0476AbuIshaqShirazi.TabaqatFuqaha (30,392 words; 508 units; 0 bios)`
 - `0482AbuIshaqHabbal.WafayatMisriyyin (6,616 words; 497 units; 0 bios)`
-- `0521IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (4,082 words; 84 units; 0 bios)`
+- `0526IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0544CiyadIbnMusaYahsubi.TartibMadarik (320,968 words; 1,177 units; 0 bios)`
 - `0555IbnQalanisi.Tarikh (120,986 words; 157 units; 0 bios)`
 - `0565IbnZaydBayhaqi.TarikhBayhaq (121,031 words; 299 units; 0 bios)`
@@ -140,7 +140,7 @@
 
 
 
-# 0300AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
+# 0300AH [[ [Re]generated on 2017-01-22 (16:18:08) ]]
 
 * `0203IbnSulaymanGhazi.MusnadRida (TAGS: CENT0300, _HADITH, _SHICI)`
 * `0203YahyaIbnAdam.Kharaj (TAGS: CENT0300, _AJZA, _FIQH, _HADITH, _MASAIL, _USUL)`
@@ -277,6 +277,7 @@
 * `0241IbnHanbal.Zuhd (TAGS: CENT0300, _ADAB, _ADHKAR, _RAQAIQ)`
 * `0241IbnHanbal.Zuhd (TAGS: CENT0300, _AJZA, _AKHLAQ, _HADITH)`
 * `0242IbnAslanTusi.Arbacun (TAGS: CENT0300, _AJZA, _HADITH, _TARAJIM)`
+* `0242IbnAslanTusi.Arbacun (TAGS: _AJZA, _HADITH)`
 * `0243HannadIbnSari.Zuhd (TAGS: CENT0300, _ADAB, _ADHKAR, _AJZA, _AKHLAQ, _HADITH, _RAQAIQ)`
 * `0243HarithMuhasibi.AdabNufus (TAGS: CENT0300, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
 * `0243HarithMuhasibi.FahmQuran (TAGS: CENT0300, _CULUM, _QURAN, _TAFSIR)`
